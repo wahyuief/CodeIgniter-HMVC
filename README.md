@@ -2,7 +2,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/n3cr0n/codeigniter-hmvc/badge)](https://www.codefactor.io/repository/github/n3cr0n/codeigniter-hmvc)
 
 # Codeigniter-HMVC
-CodeIgniter 3.1.10 with HMVC (With PHP backward functions for each() and list() and code optimisations -> https://github.com/N3Cr0N/HMVC) and Whoops Error Handling Framework -> https://github.com/filp/whoops
+CodeIgniter 3.1.13 with HMVC (With PHP backward functions for each() and list() and code optimisations -> https://github.com/N3Cr0N/HMVC) and Whoops Error Handling Framework -> https://github.com/filp/whoops
 
 # Modular Extensions - HMVC
 
@@ -227,7 +227,7 @@ This software includes [Prettify](https://github.com/google/code-prettify), lice
 
 ## CodeIgniter 3 Documentation
 
-* [User guide](https://codeigniter.com/user_guide)
+* [User guide](https://www.codeigniter.com/userguide3/)
 
 ## Reference
 
